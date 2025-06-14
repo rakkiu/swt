@@ -32,6 +32,4 @@ class MathUtilityDDTTest {
     public void testFactorialGivenRightArgsRunsWell(int n, long expected){
         assertEquals(expected,MathUtility.getFactorial(n));
     }
-
-
 }
