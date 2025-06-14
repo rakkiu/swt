@@ -14,3 +14,14 @@ using GitHub Actions
 ### Connect me via: votuankhoi02102004@gmail.com
 
 #### &#169; 2025 rakkiu
+
+## Screen-shots
+
+### TDD, DDT test script with JUnit
+![TTD, DDT with JUnit](https://github.com/rakkiu/swt/blob/main/screenshots/JUnit%20with%20TDD.png)
+
+### Maven builder to build .jar file
+![Maven builder](https://github.com/rakkiu/swt/blob/main/screenshots/JAck.png)
+
+
+
