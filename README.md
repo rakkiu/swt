@@ -1,3 +1,6 @@
+[![Math Utility Project (CI included) | © 2025 by rakkiu](https://github.com/rakkiu/swt/actions/workflows/ngoctrinh_cirunner.yml/badge.svg)](https://github.com/rakkiu/swt/actions/workflows/ngoctrinh_cirunner.yml)
+
+
 # Welcome to Math Utility REPO
 
 ## You will find in this repo following stuff:
